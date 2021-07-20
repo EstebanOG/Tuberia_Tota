@@ -1,0 +1,142 @@
+[
+    {
+        "id": 0,
+        "Poblacion": "Laguna de Tota",
+        "Altura": 3015,
+        "Latitud":5.5378,
+        "Longitud":-72.9307,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id": 1,
+        "Poblacion": "Tota",
+        "Altura": 2870,
+        "Latitud":5.56946051,
+        "Longitud":-72.9864295539,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id": 2,
+        "Poblacion": "Chameza",
+        "Altura": 1110,
+        "Latitud":5.217,
+        "Longitud":-72.883,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":3,
+        "Poblacion": "Firavitoba",
+        "Altura": 2500,
+        "Latitud":5.66877,
+        "Longitud":-72.994,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":4,
+        "Poblacion": "Paipa",
+        "Altura": 2525,
+        "Latitud":5.77894,
+        "Longitud":-73.1185,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":5,
+        "Poblacion": "Duitama",
+        "Altura": 2530,
+        "Latitud":5.817,
+        "Longitud":-73.033,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":6,
+        "Poblacion": "Tibasosa",
+        "Altura": 2538,
+        "Latitud":5.74615,
+        "Longitud":-73.0011,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":7,
+        "Poblacion": "Iza",
+        "Altura": 2560,
+        "Latitud":5.6125,
+        "Longitud":-72.978611111111,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":8,
+        "Poblacion": "Sogamoso",
+        "Altura": 2569,
+        "Latitud":5.7158333333333,
+        "Longitud":-72.933333333333,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":9,
+        "Poblacion": "Nobsa",
+        "Altura": 2593,
+        "Latitud":5.7697222222222,
+        "Longitud":-72.94,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":10,
+        "Poblacion": "Cuitiva",
+        "Altura": 2750,
+        "Latitud":5.5802,
+        "Longitud":-72.9664,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":11,
+        "Poblacion": "Mongui",
+        "Altura": 2900,
+        "Latitud":5.7256,
+        "Longitud":-72.8498,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":12,
+        "Poblacion": "Aquitania",
+        "Altura": 3030,
+        "Latitud":5.5202,
+        "Longitud":-72.8837,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    },
+    {
+        "id":13,
+        "Poblacion": "Pesca",
+        "Altura": 3910,
+        "Latitud":5.5587,
+        "Longitud":-73.0502,
+        "Distancia":0,
+        "Penalizacion":0,
+        "Costo":0
+    }
+]
